@@ -6,4 +6,4 @@ Fundamentals of Python,
 Matrices, 
 DataFrames,
 Data Visualization in Matplotlib and Seaborn.
-
+Also, it includes hands-on projects
